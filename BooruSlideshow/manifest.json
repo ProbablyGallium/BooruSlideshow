@@ -4,7 +4,7 @@
 	"name": "Booru Slideshow",
 	"short_name": "Booru SS",
 	"description": "View a slideshow from a Booru site based on your search.",
-	"version": "9.1",
+	"version": "9.1.1",
 
 	"browser_action":
 	{
@@ -28,7 +28,7 @@
 		"webRequest",
 		"webRequestBlocking",
 		"downloads",
-		"https://atfbooru.ninja/*",
+		"https://booru.allthefallen.moe/*",
 		"https://danbooru.donmai.us/*",
 		"https://derpibooru.org/*",
 		"https://e621.net/*",
